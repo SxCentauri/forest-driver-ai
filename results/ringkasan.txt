@@ -1,0 +1,2 @@
+Data: 2000 patch, train=1500, test=500
+Random Forest accuracy: 0.974
